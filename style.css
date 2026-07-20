@@ -1,0 +1,47 @@
+body{
+
+    font-family: Arial, sans-serif;
+
+    background:#f7f9fb;
+
+    color:#222;
+
+    margin:0;
+
+}
+
+header{
+
+    background:#0d1b2a;
+
+    color:white;
+
+    padding:30px;
+
+}
+
+nav{
+
+    display:flex;
+
+    gap:20px;
+
+}
+
+section{
+
+    max-width:1000px;
+
+    margin:auto;
+
+    padding:50px;
+
+}
+
+a{
+
+    color:#0066cc;
+
+    text-decoration:none;
+
+}
